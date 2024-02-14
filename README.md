@@ -1,6 +1,6 @@
 # Google Play Store Apps Data Analysis
 ## Project Review
-Exploring different app categories,  ratings and their review to identify popular categories and emerging trends, to identify the potential success of a new app based on weather it is paid or free  and which category have the most competition than others.  Market segmentation is based onn factors like app type (free vs. paid), ratings, installs, user reviews.  and contentratings.
+Exploring different app categories,  ratings and their review to identify popular categories and emerging trends. What makes apps more successful than others.  Market segmentation is based onn factors like app type (free vs. paid), ratings, installs, user reviews and content ratings.
 
 ### Data Sources
 Google Playstore Apps is a dataset iwth all the apps informationn and it can be fount on kaggle googleplaystore.csv .
